@@ -1,7 +1,7 @@
 // Package main ZeroBot-Plugin main file
 package main
 
-import (1
+import (
 	"encoding/json"
 	"flag"
 	"fmt"
